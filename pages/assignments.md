@@ -54,7 +54,7 @@ Results | Repository
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment2 results]()| [assignment2 repositiory]()|
+| [assignment2 results](https://github.com/hanxiao0607/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW2.ipynb)| [assignment2 repositiory](https://github.com/hanxiao0607/EMSEDataAnalytics/tree/master/EMSE6992_Assignments)|
 
 ---
 
@@ -74,7 +74,7 @@ Results | Repository
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment3 results]()| [assignment3 repositiory]()|
+| [assignment3 results]()| [assignment3 repositiory](https://github.com/hanxiao0607/EMSEDataAnalytics/tree/master/EMSE6992_Assignments)|
 
 ---
 
@@ -95,7 +95,7 @@ Results | Repository
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment4 results]()| [assignment4 repositiory]()|
+| [assignment4 results]()| [assignment4 repositiory](https://github.com/hanxiao0607/EMSEDataAnalytics/tree/master/EMSE6992_Assignments)|
 
 ---
 
