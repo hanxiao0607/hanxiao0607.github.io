@@ -5,7 +5,7 @@
     <title>{{ page.title }}</title>
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
-    <b><meta name="author" content="{{ site.author.name }}"><b>
+    <meta name="author" content="{{ site.author.name }}">
 
     <!-- Enable responsive viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -29,6 +29,7 @@
 
   </head>
   <body>
+    <b>
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container-narrow">
@@ -43,7 +44,8 @@
         </div>
       </div>
     </div>
-
+    <b>
+      
     <div class="container-narrow">
 
       <div class="content">
