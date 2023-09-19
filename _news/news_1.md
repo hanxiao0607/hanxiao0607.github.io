@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 I was honored to receive the Presidential Doctoral Research Fellowship from the USU Office of Research. :smile:
-
