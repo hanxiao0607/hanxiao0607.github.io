@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hanxiao0607.github.io//sitemap.xml
