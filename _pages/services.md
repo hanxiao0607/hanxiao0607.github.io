@@ -8,8 +8,8 @@ nav_order: 3
 ---
 
 ## Conference Reviewer
-- IEEE International Joint Conference on Neural Networks (IJCNN) 2023
-- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2022
+- IEEE International Joint Conference on Neural Networks (IJCNN) 2023, 2024
+- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2022, 2024
 
 ## Journal Reviewer
 - ACM Transactions on Modeling and Performance Evaluation of Computing Systems

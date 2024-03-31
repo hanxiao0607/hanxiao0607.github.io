@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate, <a href='https://www.usu.edu/'>Utah State University</a>. 
+#subtitle: Ph.D. , <a href='https://www.usu.edu/'>Utah State University</a>. 
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome to my personal website. I am a Ph.D. candidate in the Department of Computer Science at [Utah State University](https://www.usu.edu/cs/), advised by [Prof. Shuhan Yuan](https://yuan.shuhan.org/).
+Welcome to my personal website. I got my Ph.D. from the Department of Computer Science at [Utah State University](https://www.usu.edu/cs/), advised by [Prof. Shuhan Yuan](https://yuan.shuhan.org/).
 
 My research areas include: data mining, machine learning, and artificial intelligence, with a particular focus on anomaly detection, fairness-aware machine learning, root cause analysis, and reinforcement learning.
 
