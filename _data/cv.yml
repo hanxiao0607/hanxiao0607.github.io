@@ -11,7 +11,7 @@
   contents:
     - title: Ph.D. in Computer Science
       institution: Utah State University
-      year: 2020-Present
+      year: 2020-2024
     - title: M.S. in Data Analytics
       institution: George Washington University
       year: 2018-2020
@@ -34,7 +34,7 @@
         - Performed in-depth research on anomaly detection for log data, utilizing large language models (LLM) and leveraging reinforcement learning techniques, such as Proximal Policy Optimization (PPO) and Advantage Actor-Critic (A2C), to enhance the F1-score across multiple datasets.
     - title: Research Assistant
       institution: Utah State University, Logan, UT
-      year: 2020.08 - Present
+      year: 2020.08 - 2024.05
       description:
         - <strong>Trustworthy Anomaly Detection</strong> - Developed anomaly detection models for various data types, including tabular, sequential, and time series data, spanning domains such as performance, explainability, and fairness.
         - <strong>Causal Modeling and Inference</strong> - Created open-source causal inference models and applied them to various downstream tasks, including mitigating bias for specific demographic groups to promote fairness and offering recommendations to address undesired outcomes of AI models.
