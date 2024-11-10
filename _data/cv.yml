@@ -26,6 +26,9 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Applied Scientist
+      institution: Twitch, San Francisco, CA
+      year: 2024.10 - Present
     - title: Machine Learning and AI Research Intern
       institution: Nokia Bell Labs, Murray Hill, NJ
       year: 2023.06 - 2023.08
@@ -42,6 +45,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - USU Computer Science Outstanding Graduate Student
     - year: 2020 - 2024
       items:
         - USU Presidential Doctoral Research Fellowship $40,000

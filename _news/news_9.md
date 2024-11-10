@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congratulations! I started working as an Applied Scientist at Twitch. :smile:
+I started working as an Applied Scientist at Twitch. :smile:
