@@ -7,7 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-- Outstanding Graduate Student, Utah State University, 2024
 - [Presidential Doctoral Research Fellowship](https://research.usu.edu/pdrf/index), Utah State University, 2020 - 2024
 - Graduate Student Travel Award, Utah State University, 2023
 - Student Travel Award, IEEE BigData, 2021
