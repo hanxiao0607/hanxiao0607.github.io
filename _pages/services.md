@@ -20,6 +20,7 @@ nav_order: 3
 - IEEE/CAA Journal of Automatica Sinica
 - Intelligent Data Analysis
 - International Journal of Data Science and Analytics
+- SoftwareX
 
 ## Synergistic Activities
 - IEEE International Conference on Big Data Session Chair / Student Volunteer 2021
