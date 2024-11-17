@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-#subtitle: Ph.D. , <a href='https://www.usu.edu/'>Utah State University</a>. 
+subtitle: Applied Scientist, <a href='https://www.twitch.tv/'>Twitch</a>. 
 
 profile:
   align: right
