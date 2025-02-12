@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congratulations! My paper was accepted by the ICLR 2025 Oral. :fireworks:
+Congratulations! My paper was accepted for an Oral Presentation at ICLR 2025. :fireworks:
