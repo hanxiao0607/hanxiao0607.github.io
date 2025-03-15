@@ -14,6 +14,7 @@ nav_order: 3
 ## Journal Reviewer
 - ACM Transactions on Modeling and Performance Evaluation of Computing Systems
 - Elsevier Computers & Security Reviewer
+- Engineering Applications of Artificial Intelligence
 - Frontiers in Big Data
 - IEEE Transactions on Information Forensics and Security
 - IEEE Transactions on Computational Social Systems
