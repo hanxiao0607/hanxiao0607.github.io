@@ -19,6 +19,7 @@ nav_order: 3
 - IEEE Transactions on Information Forensics and Security
 - IEEE Transactions on Computational Social Systems
 - IEEE/CAA Journal of Automatica Sinica
+- Information Science
 - Intelligent Data Analysis
 - International Journal of Data Science and Analytics
 - SoftwareX 
