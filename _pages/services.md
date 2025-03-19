@@ -13,6 +13,7 @@ nav_order: 3
 
 ## Journal Reviewer
 - ACM Transactions on Modeling and Performance Evaluation of Computing Systems
+- Applied Intelligence
 - Elsevier Computers & Security Reviewer
 - Engineering Applications of Artificial Intelligence
 - Frontiers in Big Data
