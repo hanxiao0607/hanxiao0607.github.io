@@ -14,17 +14,18 @@ nav_order: 3
 
 ## Journal Reviewer
 - ACM Transactions on Modeling and Performance Evaluation of Computing Systems
-- Applied Intelligence
 - Elsevier Computers & Security Reviewer
-- Engineering Applications of Artificial Intelligence
+- Elsevier Engineering Applications of Artificial Intelligence
+- Elsevier Information Science
+- Elsevier SoftwareX
 - Frontiers in Big Data
 - IEEE Transactions on Information Forensics and Security
 - IEEE Transactions on Computational Social Systems
 - IEEE/CAA Journal of Automatica Sinica
-- Information Science
 - Intelligent Data Analysis
-- International Journal of Data Science and Analytics
-- SoftwareX 
+- Springer Applied Intelligence
+- Springer International Journal of Data Science and Analytics
+
 
 ## Synergistic Activities
 - IEEE International Conference on Big Data Session Chair / Student Volunteer 2021
