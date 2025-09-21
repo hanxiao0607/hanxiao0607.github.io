@@ -19,6 +19,7 @@ nav_order: 3
 - Elsevier Array
 - Elsevier Computers & Security Reviewer
 - Elsevier Engineering Applications of Artificial Intelligence
+- Elsevier Future Generation Computer Systems
 - Elsevier Information Science
 - Elsevier SoftwareX
 - Frontiers in Big Data
@@ -28,6 +29,7 @@ nav_order: 3
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE/CAA Journal of Automatica Sinica
 - Intelligent Data Analysis
+- Internet of Things and Cyber-Physical Systems
 - Springer Applied Intelligence
 - Springer International Journal of Data Science and Analytics
 
