@@ -16,6 +16,7 @@ nav_order: 3
 ## Journal Reviewer
 - ACM Transactions on Modeling and Performance Evaluation of Computing Systems
 - ACM Transactions on Knowledge Discovery from Data
+- Big Data Mining and Analytics
 - Elsevier Array
 - Elsevier Computers & Security Reviewer
 - Elsevier Engineering Applications of Artificial Intelligence
@@ -30,6 +31,7 @@ nav_order: 3
 - IEEE/CAA Journal of Automatica Sinica
 - Intelligent Data Analysis
 - Internet of Things and Cyber-Physical Systems
+- PeerJ Computer Science
 - Springer Applied Intelligence
 - Springer International Journal of Data Science and Analytics
 
